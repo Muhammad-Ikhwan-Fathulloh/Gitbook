@@ -26,8 +26,27 @@
 
 ## Frontend
 
-* [Page 1](frontend/page-1.md)
+* [Bootstrap](frontend/bootstrap.md)
+* [Tailwind](frontend/tailwind.md)
+* [JQuery](frontend/jquery.md)
+* [React JS](frontend/react-js.md)
+* [Vue JS](frontend/vue-js.md)
 
 ## Backend
 
-* [Page 2](backend/page-2.md)
+* [Laravel (PHP)](backend/laravel-php.md)
+* [Flask (Python)](backend/flask-python.md)
+* [Django (Python)](backend/django-python.md)
+* [Express JS (Javascript)](backend/express-js-javascript.md)
+* [Gin (Golang)](backend/gin-golang.md)
+
+## Database
+
+* [My SQL](database/my-sql.md)
+* [No SQL](database/no-sql.md)
+
+## Proyek
+
+* [Smarthome dengan Rest API](proyek/smarthome-dengan-rest-api.md)
+* [Smarthome dengan MQTT](proyek/smarthome-dengan-mqtt.md)
+* [Smarthome dengan Websocket](proyek/smarthome-dengan-websocket.md)
